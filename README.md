@@ -7,9 +7,9 @@ Des utilisateurs interagissent en continu avec des produits proposés par des ve
 
 ## Auteurs
 
-* William Church
+* William CHURCH
 * Axel EDOUARD
-* Abderrahmane Zerargui
+* Abderrahmane ZERARGUI
 
 ## Objectif du projet
 
